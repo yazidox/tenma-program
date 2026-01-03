@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pump.fun/coin/GdhcpizTGFmooo8G87J46cbGkXQW6KxvMUfhTqApump">
+  <a href="https://pump.fun/coin/KcMTG3PVAcHBtt7M5TcjEsSeZr7awChnt8kdodYpump">
     <img src="https://img.shields.io/badge/Token-Pump.fun-green?style=for-the-badge" alt="Pump.fun" />
   </a>
   <a href="https://x.com/i/communities/2007237901587710458">
@@ -27,14 +27,14 @@
 | Detail | Value |
 |--------|-------|
 | **Program ID** | `2S398gEigP71GhLjryxZwL4xTJ5iEE8QH3q5Vmo4r6v8` |
-| **Token Mint** | `GdhcpizTGFmooo8G87J46cbGkXQW6KxvMUfhTqApump` |
+| **Token Mint** | `KcMTG3PVAcHBtt7M5TcjEsSeZr7awChnt8kdodYpump` |
 | **Network** | Solana Mainnet |
 | **Deployment Tx** | [`4a5axexsCb82pbzm5m5xCoJEEY1VCrQ7QEyAETuqtyM8Xk55LunFLhToVWe5eu2hpcqkkhJS2VpQxayXsYDdU77Y`](https://solscan.io/tx/4a5axexsCb82pbzm5m5xCoJEEY1VCrQ7QEyAETuqtyM8Xk55LunFLhToVWe5eu2hpcqkkhJS2VpQxayXsYDdU77Y) |
 | **Framework** | Anchor 0.31.0 |
 
 ### Verified Links
 - 🔗 **Program**: [View on Solscan](https://solscan.io/account/2S398gEigP71GhLjryxZwL4xTJ5iEE8QH3q5Vmo4r6v8)
-- 🪙 **Token**: [Buy on Pump.fun](https://pump.fun/coin/GdhcpizTGFmooo8G87J46cbGkXQW6KxvMUfhTqApump)
+- 🪙 **Token**: [Buy on Pump.fun](https://pump.fun/coin/KcMTG3PVAcHBtt7M5TcjEsSeZr7awChnt8kdodYpump)
 - 👥 **Community**: [Join on X](https://x.com/i/communities/2007237901587710458)
 
 ---
@@ -171,7 +171,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Links
 
-- 🪙 **Token**: [Pump.fun](https://pump.fun/coin/GdhcpizTGFmooo8G87J46cbGkXQW6KxvMUfhTqApump)
+- 🪙 **Token**: [Pump.fun](https://pump.fun/coin/KcMTG3PVAcHBtt7M5TcjEsSeZr7awChnt8kdodYpump)
 - 👥 **Community**: [X Community](https://x.com/i/communities/2007237901587710458)
 - 🔗 **Program**: [Solscan](https://solscan.io/account/2S398gEigP71GhLjryxZwL4xTJ5iEE8QH3q5Vmo4r6v8)
 
