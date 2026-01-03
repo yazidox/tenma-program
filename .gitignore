@@ -1,0 +1,34 @@
+# Build artifacts
+target/
+
+# Dependencies
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keys and wallets - NEVER commit private keys!
+*-keypair.json
+*.pem
+
+# Keep IDL and types (they're safe to share)
+!idl/
+!types/
+
+# Keep deploy folder structure but not the .so file (too large)
+!deploy/
+deploy/*.so
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
